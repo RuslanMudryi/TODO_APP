@@ -45,4 +45,4 @@ The app allows users to manage a list of tasks (**todos**) with features such as
 
 ## Demo
 
-[DEMO link](https://RuslanMduryi.github.io/TODO-APP/) 
+[DEMO link](https://RuslanMduryi.github.io/TODO_APP/) 
